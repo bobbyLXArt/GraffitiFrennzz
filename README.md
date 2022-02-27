@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+BobbyLXArt.nft
 
-You can use the [editor on GitHub](https://github.com/bobbyLXArt/GraffitiFrennzz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+New Drop April 2022!!
+New batch of graffiti frennzz dropping mid april 2022
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
