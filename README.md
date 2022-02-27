@@ -3,6 +3,7 @@ BobbyLXArt.nft
 New Drop April 2022!!
 New batch of graffiti frennzz dropping mid april 2022
 
+1000 TO COLLECT! ALL 1 0F 1!
 
 ![IMG_3949](https://user-images.githubusercontent.com/100434348/155876915-78526bba-8798-45fc-b171-b10b1b022f55.jpg)
 ![IMG_3923](https://user-images.githubusercontent.com/100434348/155876937-3041ccc5-820a-4682-af7e-af5c7df82d2f.jpg)
