@@ -1,17 +1,3 @@
 theme: jekyll-theme-cayman
-- uses: aquiladev/ipfs-action@v0.1.1
-  id: upload
-  with:
-    path: ./build
-    - uses: aquiladev/ipfs-action@v0.1.3
-  id: pinata
-  with:
-    path: ./build
-    service: pinata
-    pinataKey: ${{ secrets.PINATA_KEY }}
-    pinataSecret: ${{ secrets.PINATA_SECRET }}
-    pinataPinName: {pin_name}
-    - uses: aquiladev/swarm-action@v0.1
-  id: upload
-  with:
-    path: ./build
+- name: Upload to IPFS
+  uses: aquiladev/ipfs-action@v0.2.1-alpha.4
