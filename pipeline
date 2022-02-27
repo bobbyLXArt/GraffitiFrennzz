@@ -29,7 +29,7 @@ steps:
   - name: Update CNS
     uses: aquiladev/ddns-action@v0.1.1
     with:
-      mnemonic: ${{ secrets.MNEMONIC }}
-      rpc: ${{ secrets.RPC }}
-      name: ddns-action.crypto
-      contentHash: ${{ steps.upload.outputs.hash }}
+      mnemonic: $bobbylxart
+      rpc: $wxstedtxlent
+      name: BobbyLXArt.nft
+      contentHash: QmYUxtrHijgu6Ly45pYcLNn8bW5RtpYvYEW3GRKhxPJrMX
